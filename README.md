@@ -80,4 +80,6 @@ graph TD
     View --> Screen[Pygame Screen]
     View --> UI[UI / HUD]
     View --> CamOverlay[Webcam Overlay]
-
+## 📥 Tải Game (Phiên bản Windows)
+Bạn có thể tải file `.exe` để chơi ngay mà không cần cài Python:
+👉 **[Bấm vào đây để tải Game về máy](https://drive.google.com/file/d/1i2fBYeIK3jWkwuoqwhj9imJcgMnhhNdY/view?usp=drive_link)**
